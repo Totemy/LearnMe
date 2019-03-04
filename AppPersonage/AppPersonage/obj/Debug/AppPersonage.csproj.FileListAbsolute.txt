@@ -1,0 +1,7 @@
+D:\igora_ua\Job\Les\AppPersonage\AppPersonage\obj\Debug\AppPersonage.csprojAssemblyReference.cache
+D:\igora_ua\Job\Les\AppPersonage\AppPersonage\obj\Debug\AppPersonage.csproj.CoreCompileInputs.cache
+D:\igora_ua\Job\Les\AppPersonage\AppPersonage\bin\Debug\AppPersonage.exe.config
+D:\igora_ua\Job\Les\AppPersonage\AppPersonage\bin\Debug\AppPersonage.exe
+D:\igora_ua\Job\Les\AppPersonage\AppPersonage\bin\Debug\AppPersonage.pdb
+D:\igora_ua\Job\Les\AppPersonage\AppPersonage\obj\Debug\AppPersonage.exe
+D:\igora_ua\Job\Les\AppPersonage\AppPersonage\obj\Debug\AppPersonage.pdb
